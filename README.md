@@ -1,8 +1,8 @@
-# ScribePad
+# ScribePad :ledger:
 
 ScribePad is a basic notes android app built using Jetpack Compose and Kotlin
 
-## Concepts
+## Concepts :gear:
 - Jetpack Compose
 - MVVM
 - Clean Architecture
@@ -10,7 +10,7 @@ ScribePad is a basic notes android app built using Jetpack Compose and Kotlin
 - Pluto Debugger
 - Dagger/Hilt Dependency Injection
 
-## Features
+## Features :iphone:
 - Create and Edit Notes
 - Delete Notes
 - View Notes
