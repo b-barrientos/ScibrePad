@@ -18,4 +18,5 @@ ScribePad is a basic notes android app built using Jetpack Compose and Kotlin
 - Offline Access
 
 ## Screen Shots
-[logo]:  "Home Screen"
+[logo]: https://github.com/b-barrientos/ScibrePad/blob/2e53b556fe737c821e9bd51c60093048064f3b66/Home%20screen.png "Home Screen"
+
